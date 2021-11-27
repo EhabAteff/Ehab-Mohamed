@@ -79,7 +79,7 @@ Google search UI functionality Testing plan
 
   Introduction:
 
-   Testing plan is designed to cover main Google search UI functionalities.
+    Testing plan is designed to cover main Google search UI functionalities.
    
   Scope
 
