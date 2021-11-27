@@ -3,13 +3,13 @@
 
 Description
 
- This repository contains a list of ideas/bullet points for testing Monefy mobile application with prioritization, UX issues while testing Monefy App, Documented test cases for testing Google search UI functionality and automated testing scrips.
+  This repository contains a list of ideas/bullet points for testing Monefy mobile application with prioritization, UX issues while testing Monefy App, Documented test cases for testing Google search UI functionality and automated testing scrips.
  
 Monefy Testing plan
 
- Introduction:
+  Introduction:
 
-   Testing plan is designed to cover main functional and non-functional test cases on the Monefy app based on app description on the android playstore.
+    Testing plan is designed to cover main functional and non-functional test cases on the Monefy app based on app description on the android playstore.
    
   Scope
 
@@ -45,15 +45,15 @@ Monefy Testing plan
 
     3-Bugs/issues are identified and reported
 
- Test Deliverables:
+  Test Deliverables:
 
-  1-List of ideas/bullet points for testing Monefy mobile application
+    1-List of ideas/bullet points for testing Monefy mobile application
 
-  2-Prioritization of each test case according to their possible business impact
+    2-Prioritization of each test case according to their possible business impact
 
-  3-Identified bugs report
+    3-Identified bugs report
 
-  4-Identified UX issues
+    4-Identified UX issues
 
  //Deliverables can be found at Ehab-Mohamed\Monefy_testingBulletPoints & Bugs\
      
@@ -76,37 +76,60 @@ Monefy Testing plan
 
 
 Google search UI functionality Testing plan
- Introduction:
+
+  Introduction:
+
    Testing plan is designed to cover main Google search UI functionalities.
    
   Scope
+
    In Scope:
+
      1-Navigating to webpage
+
      2-Search Functionality
+
      3-Fealing Lucky Button functionality
+
      4-Searching features
+
      5-Search history records functionality
+
      6-Switching page language
+
    Out Scope:
+
      1-Testing mobile version of google search
+
      2-Testing Google search page Theme
      
   Quality Objective:
+
     1-Ensuring that search engine is working as described by Google
+
     2-Bugs/issues are identified and reported
 
- Test Deliverables:
-  1-Documented Testcases
-  2-Automated testcases scripts
- //Deliverables can be found at Ehab-Mohamed\Automation\
+  Test Deliverables:
+
+    1-Documented Testcases
+
+    2-Automated testcases scripts
+
+  //Deliverables can be found at Ehab-Mohamed\Automation\
      
- Resource & Environment Needs:
-  Testing Tools:
-    1-Excel
-    2-Intellij
-    3-chromedriver
-    4-Chrome browser
-    //Chrome browser and chromedriver has to be on the same version
+  Resource & Environment Needs:
+  
+    Testing Tools:
+      1-Excel
+      
+      2-Intellij
+      
+      3-chromedriver
+      
+      4-Chrome browser
+      
+      //Chrome browser and chromedriver has to be on the same version
     
   Test Environment:
+    
     1-Windows 10 Home
