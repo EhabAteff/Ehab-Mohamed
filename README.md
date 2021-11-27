@@ -2,7 +2,10 @@
  Instabug Challenge - Automation & Manual Testing
 
 Description
+
+
  This repository contains a list of ideas/bullet points for testing Monefy mobile application with prioritization, UX issues while testing Monefy App, Documented test cases for testing Google search UI functionality and automated testing scrips.
+ 
  
 Monefy Testing plan
  Introduction:
