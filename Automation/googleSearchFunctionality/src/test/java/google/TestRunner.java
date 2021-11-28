@@ -8,8 +8,8 @@ import org.testng.annotations.AfterTest;
 @CucumberOptions
 (
 		monochrome = true,
-		features={"./src/test/java/google"},
-		glue={"google"},
+		features={"./src/test/java/google/feature_files"},
+		glue={"google/step_defs"},
 		tags = "@Run"
 
 )

@@ -1,4 +1,4 @@
-package google;
+package google.step_defs;
 
 import browser_actions.BrowserActions;
 import credentials.ReadPropertiesFile;

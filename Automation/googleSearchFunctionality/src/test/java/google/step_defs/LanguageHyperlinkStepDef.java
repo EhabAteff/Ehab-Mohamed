@@ -1,8 +1,7 @@
-package google;
+package google.step_defs;
 
 import browser_actions.BrowserActions;
 import credentials.ReadPropertiesFile;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.By;

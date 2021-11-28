@@ -1,4 +1,4 @@
-package google;
+package google.step_defs;
 
 import io.cucumber.java.en.When;
 
